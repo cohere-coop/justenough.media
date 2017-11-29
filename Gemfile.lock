@@ -61,10 +61,13 @@ GEM
       hitimes
     toml (0.1.2)
       parslet (~> 1.5.0)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   jekyll (= 2.5.3)
+
+BUNDLED WITH
+   1.16.0
